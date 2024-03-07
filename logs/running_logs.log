@@ -1,1 +1,37 @@
 [2024-02-14 18:37:16,690: INFO: main: Welcome to the project]
+[2024-02-16 05:09:00,351: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-16 05:09:00,354: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-16 05:09:10,746: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-16 05:09:10,750: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-16 05:09:55,493: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-16 05:09:55,497: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-16 05:09:55,499: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-16 05:09:55,500: INFO: common: created directory at: artifacts]
+[2024-02-16 05:09:55,500: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-16 05:09:56,508: INFO: 4239513839: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 6218
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "f7e9c6eb3e1b1ac56a985ef373f58e6367ce2304c1ac7ffc23f9cdd43d5fe8f0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E586:E866:399B8A:4812C8:65CF5095
+Accept-Ranges: bytes
+Date: Fri, 16 Feb 2024 12:09:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-den8280-DEN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708085397.346795,VS0,VE107
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e7c7cb5ae05d083dee91bd22f31d0b687bce7abe
+Expires: Fri, 16 Feb 2024 12:14:57 GMT
+Source-Age: 0
+
+]
